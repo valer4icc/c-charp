@@ -1,0 +1,14 @@
+C:\Users\VHJP\Desktop\c-charp\PraktinisDarbas\bin\Debug\net7.0\PraktinisDarbas.exe
+C:\Users\VHJP\Desktop\c-charp\PraktinisDarbas\bin\Debug\net7.0\PraktinisDarbas.deps.json
+C:\Users\VHJP\Desktop\c-charp\PraktinisDarbas\bin\Debug\net7.0\PraktinisDarbas.runtimeconfig.json
+C:\Users\VHJP\Desktop\c-charp\PraktinisDarbas\bin\Debug\net7.0\PraktinisDarbas.dll
+C:\Users\VHJP\Desktop\c-charp\PraktinisDarbas\bin\Debug\net7.0\PraktinisDarbas.pdb
+C:\Users\VHJP\Desktop\c-charp\PraktinisDarbas\obj\Debug\net7.0\PraktinisDarbas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VHJP\Desktop\c-charp\PraktinisDarbas\obj\Debug\net7.0\PraktinisDarbas.AssemblyInfoInputs.cache
+C:\Users\VHJP\Desktop\c-charp\PraktinisDarbas\obj\Debug\net7.0\PraktinisDarbas.AssemblyInfo.cs
+C:\Users\VHJP\Desktop\c-charp\PraktinisDarbas\obj\Debug\net7.0\PraktinisDarbas.csproj.CoreCompileInputs.cache
+C:\Users\VHJP\Desktop\c-charp\PraktinisDarbas\obj\Debug\net7.0\PraktinisDarbas.dll
+C:\Users\VHJP\Desktop\c-charp\PraktinisDarbas\obj\Debug\net7.0\refint\PraktinisDarbas.dll
+C:\Users\VHJP\Desktop\c-charp\PraktinisDarbas\obj\Debug\net7.0\PraktinisDarbas.pdb
+C:\Users\VHJP\Desktop\c-charp\PraktinisDarbas\obj\Debug\net7.0\PraktinisDarbas.genruntimeconfig.cache
+C:\Users\VHJP\Desktop\c-charp\PraktinisDarbas\obj\Debug\net7.0\ref\PraktinisDarbas.dll
